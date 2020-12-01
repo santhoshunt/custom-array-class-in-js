@@ -1,1 +1,2 @@
-# custom-array-class-in-js
+# custom array
+## creating our own array class in JavaScript
